@@ -1,0 +1,69 @@
+#h1{
+    color: green;
+}
+h3{
+    color: gray;
+}
+#tb0{
+   margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    width: 100%;
+}
+#txt1{
+    color: lightblue;
+}
+#txt2{
+    color: white;
+}
+#headp{
+    color:white;
+}
+#header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: black;
+}
+#Experience{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+}
+
+#Education{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+}
+
+#Skills{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+}
+
+#Interests{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+}
+
+#Languages{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+}
+
+#Awards{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid
+} 
