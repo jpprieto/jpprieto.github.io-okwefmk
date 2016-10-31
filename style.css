@@ -5,8 +5,8 @@ h3{
     color: gray;
 }
 #map{
-    max-width:75%;
-    max-height:75%;
+    max-width:50%;
+    max-height:50%;
 }
 #map1{
     max-width:100%;
